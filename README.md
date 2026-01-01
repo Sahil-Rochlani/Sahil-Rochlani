@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi, I’m Sahil.
+
+Backend-focused full-stack engineer with experience building authenticated APIs,
+role-based systems, and end-to-end workflows. Recently worked on production-style
+backends with Swagger documentation and automated tests.
+
+Pinned repositories showcase my recent work.
 
 <!--
 **Sahil-Rochlani/Sahil-Rochlani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
